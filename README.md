@@ -1,11 +1,11 @@
 to build locally after cloning
 
 ```shell
-pip install comics-ocr.[cuda] -f https://download.pytorch.org/whl/torch_stable.html
+pip install comics-ocr[cuda] -f https://download.pytorch.org/whl/torch_stable.html
 
 or 
 
-pip install comics-ocr.[cpu]
+pip install comics-ocr[cpu]
 ```
 
 You can get the necessary model checkpoints and configs from
