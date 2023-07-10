@@ -2,7 +2,7 @@ from comics_ocr.comics_ocr import ComicsOCR
 
 __author__ = 'Gürkan Soykan'
 __email__ = 'grkansoykan@gmail.com'
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 
 # module level doc-string
 __doc__ = """
